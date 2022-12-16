@@ -43,6 +43,12 @@ const prompts = [
         type: 'input',
         message: 'what is the email of the manager?',
         name: 'manager_email'
+    },
+
+    {
+        type: 'input',
+        message: 'what is the office number of the manager?',
+        name: 'manager_office_number'
     }
 ]
 
